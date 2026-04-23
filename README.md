@@ -1,4 +1,9 @@
-Hello There, i am website developer (Since 2022) & Hatsune Miku Fans (Since 2019). Welcome you to view my Readme :>
+# はじめまして ! Taddeo です 
+
+## Introduction
+
+Hello! I am a software developer who focuses on web development (mainly frontend) and Python-based programming since 2022.
+
 ```json
 {
   "wife": "i can't see the end of horizon, HATSUNE MIKU !!!!!!!!!!!!!!!!",
@@ -8,11 +13,11 @@ Hello There, i am website developer (Since 2022) & Hatsune Miku Fans (Since 2019
 ```
 ----
 
-## Experiences
+## Experiences Summary
 
-- 4 times of website developing experiences (since 2022)
-- 6 times of founding project team (since 2018, the longest project opeated for 4 years with non-stop, average 2 years)
-- 2 offical cooperation records in founded project
+- 4+ years of experience in web development using frontend frameworks such as Bootstrap 4/5 and Tailwind CSS.
+- Founded and led multiple project teams since 20, with the longest-running project operating continuously for X years.
+- Experience working with real-world requirements and project delivery? can u explain why use that in cantonese
 
 -----
 
@@ -22,7 +27,7 @@ Hello There, i am website developer (Since 2022) & Hatsune Miku Fans (Since 2019
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,ts,php,c,cpp)](https://skillicons.dev)
 
 #### Framework
-[![My Skills](https://skillicons.dev/icons?i=nodejs,tailwindcss,bootstrap,mysql,fastapi,react,git,github,gitlab,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,tailwindcss,bootstrap,mysql,fastapi,react,git,github,gitlab,next,jquery,mongo)](https://skillicons.dev)
 
 #### Tools / Communicate
 [![My Skills](https://skillicons.dev/icons?i=vscode,discord,ps,pr,ai,figma)](https://skillicons.dev)
