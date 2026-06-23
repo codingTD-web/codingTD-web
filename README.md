@@ -15,8 +15,7 @@ Hello! I am a software developer who focuses on web development (mainly frontend
 
 ## Experiences Summary
 
-- 4+ years of experience in web development using frontend frameworks such as Bootstrap 4/5 and Tailwind CSS.
-- Founded and led multiple project teams since 20, with the longest-running project operating continuously for X years.
+- 4 years of experience in web development using frontend frameworks such as Bootstrap 4/5 and Tailwind CSS.
 
 -----
 
